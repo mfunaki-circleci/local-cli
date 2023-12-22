@@ -1,4 +1,5 @@
 # cci-local-cli
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/mfunaki-circleci/local-cli/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/mfunaki-circleci/local-cli/tree/main)
 
 Taken from [WindowsでCircleCIのローカル環境を動かす](https://ancozerticht.hatenablog.com/entry/2022/08/27/212337).
 
